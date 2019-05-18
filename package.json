@@ -1,0 +1,22 @@
+{
+  "name": "moviedata",
+  "version": "1.0.0",
+  "description": "Lab2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizSelton/Lab2.git"
+  },
+  "author": "Elizabeth Selton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizSelton/Lab2/issues"
+  },
+  "homepage": "https://github.com/LizSelton/Lab2#readme",
+  "dependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
